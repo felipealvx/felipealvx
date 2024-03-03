@@ -15,5 +15,15 @@
 
 <h4> Hobbies </h4>
 
-[![hobbies](https://skillicons.dev/icons?i=linux,debian,kali)](https://skillicons.dev)
+[![hobbies](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
+<h4> Redes Sociais </h4>
+<a href="https://www.linkedin.com/in/felipealvx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
+</a>
+<a href="https://www.instagram.com/felipe.alvx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">    
+</a>
+<a href="https://www.behance.net/felipealvx">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">    
+</a>
