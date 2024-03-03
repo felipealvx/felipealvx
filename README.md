@@ -17,13 +17,16 @@
 
 [![hobbies](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-<h4> Redes Sociais </h4>
-<a href="https://www.linkedin.com/in/felipealvx" target="_blank">
+<h4 align="center"> Redes Sociais </h4>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/felipealvx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
 </a>
-<a href="https://www.instagram.com/felipe.alvx" target="_blank">
+<a href="https://www.instagram.com/felipe.alvx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">    
 </a>
-<a href="https://www.behance.net/felipealvx" target="_blank">
+<a href="https://www.behance.net/felipealvx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">    
 </a>
+</p>
