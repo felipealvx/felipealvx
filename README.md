@@ -3,17 +3,19 @@
 
 <p> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
 
+<h3> Estatísticas </h3>
 
-<div style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs">
+<div class="estatisticas" style="display:flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs" style="height:120; padding-right:20px"> </img>
+    <img src="https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox" alt="Github" style="height:120"> </img>
+</div> 
 
-  <div style="padding:0 40px;">  
-    <h3 style="">Tenho Experiência como Designer e domino tecnologias como</h3>
+<div>  
+    <h3 style="">Domino algumas ferramentas como:</h3>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35">
     <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity-Designer" height="35" style="padding-left:20px">
     </div>
-    
-</div>
+
 
 
 <br />
@@ -24,7 +26,7 @@
     
 
 <!-- Card com as linguagens mais usadas por mim -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox) -->
 <!-- total de commits -->
 
 <!--
