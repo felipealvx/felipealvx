@@ -1,7 +1,24 @@
 <h1 align="center">Olá, bem vindo ao meu perfil!</h1>
-<p> oi </p>
+<p align="center"> Me chamo <b>Felipe</b> e sou fascinado por tecnologia, atualmente decidi focar meus estudos na área e me tornar um desenvolvedor <b> Front-End. </b></p>
+
+<p align="center"> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox)
+
+
+<h3 align="center"> Tenho Experiência como Designer e domino tecnologias como </h3>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="120">
+</img>
+
+<br />
+
+
+        
+
+    
+
 <!-- Card com as linguagens mais usadas por mim -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox)
 <!-- total de commits -->
