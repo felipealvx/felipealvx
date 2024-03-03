@@ -1,16 +1,20 @@
 <h1 align="center">Olá, bem vindo ao meu perfil!</h1>
-<p align="center"> Me chamo <b>Felipe</b> e sou fascinado por tecnologia, atualmente decidi focar meus estudos na área e me tornar um desenvolvedor <b> Front-End. </b></p>
+<p> Me chamo <b>Felipe</b> e sou fascinado por tecnologia, atualmente decidi focar meus estudos na área e me tornar um desenvolvedor <b> Front-End. </b></p>
 
-<p align="center"> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox)
+<p> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
 
 
-<h3 align="center"> Tenho Experiência como Designer e domino tecnologias como </h3>
+<div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs">
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="120">
-</img>
+  <div style="padding:0 40px;">  
+    <h3 style="">Tenho Experiência como Designer e domino tecnologias como</h3>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35">
+    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity-Designer" height="35" style="padding-left:20px">
+    </div>
+    
+</div>
+
 
 <br />
 
