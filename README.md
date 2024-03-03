@@ -1,4 +1,4 @@
-<h1>Olá, bem vindo ao meu perfil!</h1>
+<h1 align="center">Olá, bem vindo ao meu perfil!</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox)
 <!-- Card com as linguagens mais usadas por mim -->
