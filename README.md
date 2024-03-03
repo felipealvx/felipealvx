@@ -1,3 +1,10 @@
+<h1>Olá, bem vindo ao meu perfil!</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox)
+<!-- Card com as linguagens mais usadas por mim -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox)
+<!-- total de commits -->
+
 <!--
 <h1 align="center">Eu sou o Felipe</h1>
 <h3 align="center">Aspirante a Desenvolvedor Front-End. Estudante</h3>
