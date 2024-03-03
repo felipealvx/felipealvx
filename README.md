@@ -3,19 +3,24 @@
 
 <p> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
 
-<h3> Estatísticas </h3>
-
-<div class="estatisticas">
+<div align="center">
+    <h3> Estatísticas </h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs"></img>
 </div> 
 
-<div>  
+
+
+
+
+<div align="center">
     <h3>Domino algumas ferramentas de DESIGN/UX/UI como:</h3>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35">
     <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity-Designer" height="35">
 </div>
 
-
+<div>
+    <h3>
+</div>
         
 
     
