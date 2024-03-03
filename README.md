@@ -5,20 +5,15 @@
 
 <h3> Estatísticas </h3>
 
-<div class="estatisticas" style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs" style="height:120; padding-right:20px"> </img>
-    <img src="https://github-readme-stats.vercel.app/api?username=felipealvx&show_icons=true&theme=gruvbox" alt="Github" style="height:120"> </img>
+<div class="estatisticas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvx&layout=compact&show_icons=true&theme=gruvbox" alt="Top Langs"></img>
 </div> 
 
 <div>  
-    <h3 style="">Domino algumas ferramentas como:</h3>
+    <h3>Domino algumas ferramentas de DESIGN/UX/UI como:</h3>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35">
-    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity-Designer" height="35" style="padding-left:20px">
-    </div>
-
-
-
-<br />
+    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity-Designer" height="35">
+</div>
 
 
         
