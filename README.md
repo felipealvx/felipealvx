@@ -11,7 +11,7 @@
 
 <h4> Hablidades </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,html,css,javascript,typescript,figma,git)](https://skillicons.dev)
 
 <h4> Hobbies </h4>
 
