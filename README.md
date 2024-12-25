@@ -1,7 +1,5 @@
-<h1 align="center">Olá, bem vindo ao meu perfil!</h1>
-<p> Me chamo <b>Felipe</b> e sou fascinado por tecnologia, atualmente decidi focar meus estudos na área e me tornar um desenvolvedor <b> Front-End. </b></p>
-
-<p> Estou no início da minha jornada, sempre busco aprender de tudo um pouco e me dedicar no que realmente seja meu foco. </p>
+<h1 align="center">Olá, bem vindo ao meu perfil! 👋</h1>
+<p> Me chamo <b><i>Felipe Alves</i></b> e sou desenvolvedor Mobile com React Native 📱</p>
 
 <div align="center">
     <h3> Estatísticas </h3>
@@ -11,7 +9,7 @@
 
 <h4> Hablidades </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,html,css,javascript,typescript,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwindcss,html,css,javascript,figma,git)](https://skillicons.dev)
 
 <h4> Hobbies </h4>
 
